@@ -1,0 +1,22 @@
+{
+  "name": "labajs1",
+  "version": "1.0.0",
+  "description": "this is laba 1",
+  "main": "laba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bazalyskyi/labsjs.git"
+  },
+  "author": "Bazalytskiy Max <redenspaver@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bazalyskyi/labsjs/issues"
+  },
+  "homepage": "https://github.com/Bazalyskyi/labsjs#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
